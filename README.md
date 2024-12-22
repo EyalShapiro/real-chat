@@ -15,7 +15,7 @@ A simple real-time chat application built using React, Socket.IO, and styled-com
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/chat-application.git
+   git clone https://github.com/EyalShapiro/real-chat.git
    ```
 
 ```

@@ -2,7 +2,7 @@ import express from "express";
 import { createServer } from "http";
 import { Server } from "socket.io";
 import dotenv from "dotenv";
-import { MessageType } from "./types/messageType";
+import { MessageType } from "./types/MessageType";
 
 // Load environment variables
 dotenv.config();
